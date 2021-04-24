@@ -23,7 +23,7 @@ class Scratch3WebApiSample {
                     arguments: {
                         TEXT: {
                             type: ArgumentType.STRING,
-                            defaultValue: "http://localhost:5000/api/Hello/"
+                            defaultValue: "http://127.0.0.1:8000/api/Hello/"
                         }
                     }
                 },
